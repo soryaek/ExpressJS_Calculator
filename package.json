@@ -1,0 +1,14 @@
+{
+  "name": "mycalculator",
+  "version": "1.0.0",
+  "description": "This is a calculator using Express.js",
+  "main": "myCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sorya Ek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
